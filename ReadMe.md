@@ -1,3 +1,3 @@
-#welcome to gorrlia tag mod menus
+# welcome to gorrlia tag mod menus
 
-this was made by doof
+This was made by doof.
