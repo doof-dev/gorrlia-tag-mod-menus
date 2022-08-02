@@ -10,4 +10,4 @@ This was made by doof#0001.
 coming soon 
 [Join Discord](dicord.gg/eTddwPNm5m)
 
-IF ANY MODS ARE BROKE OPEN AN ISUSE OR TICKET ON DISCORD.
+IF ANY MODS ARE BROKE OPEN AN ISSUSE OR TICKET ON DISCORD.
