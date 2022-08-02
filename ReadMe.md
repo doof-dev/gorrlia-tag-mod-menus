@@ -8,4 +8,6 @@ This was made by doof#0001.
 # How to get mods
 
 coming soon 
-[Join Discord](dicord.gg/eTddwPNm5m) 
+[Join Discord](dicord.gg/eTddwPNm5m)
+
+IF ANY MODS ARE BROKE OPEN AN ISUSE OR TICKET ON DISCORD.
